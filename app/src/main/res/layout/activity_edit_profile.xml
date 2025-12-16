@@ -15,7 +15,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="180dp"
-            android:background="@drawable/bg_gradient_purple_blue"
+            android:background="@color/white"
             android:orientation="vertical"
             android:gravity="center"
             android:padding="20dp">
@@ -24,7 +24,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Editar Perfil"
-                android:textColor="@color/text_light"
+                android:textColor="@color/black"
                 android:textSize="24sp"
                 android:textStyle="bold" />
         </LinearLayout>
